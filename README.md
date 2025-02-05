@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Bhumi Gupta 
+A passionate Programmer & a full Stack developer 
 # 💫 About Me:
 🌱 I'm currently learning:<br>Building scalable and dynamic web applications using MERN stack and DSA in Java.<br><br>🤝 I'm looking to collaborate on:<br>Open-source projects, innovative full-stack applications, and web performance optimization.<br><br>💡 I'm looking for help with:<br>Cloud deployment, and backend performance tuning.<br><br>💬 Ask me about:<br>AI, DBMS, OS, JAVA & CS Fundamentals<br>Full-stack development best practices<br><br>⚡ Fun fact:<br>I love debugging and optimizing code as much as building new features! 🚀
 
