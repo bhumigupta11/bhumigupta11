@@ -33,10 +33,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhumigupta11&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhumigupta11&hide_border=false)<br/>
-<!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumigupta11&layout=compact" alt="Top Languages" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=bhumigupta11&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumigupta11&theme=radical" alt="GitHub Streak" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumigupta11&layout=compact&theme=radical" alt="Top Languages" />
 
 
 ---
